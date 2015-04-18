@@ -8,7 +8,7 @@ permalink: /resume/
 # Technical Skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS, Perl, Python, PHP
-+ **Frameworks/Libraries/Tools** – AngularJS, Bootsrap, Grunt, Underscore, jQuery, REST API, Django, Jekyll
++ **Frameworks/Libraries/Tools** – AngularJS, Bootsrap, Sass, Grunt, Underscore, jQuery, REST API, Django, Jekyll
 + **CMS** – Wordpress, Drupal, Magento
 + **Version Control Systems** – Git, Svn, Perforce
 + **Web Servers** – Apache HTTP Server
@@ -25,7 +25,7 @@ permalink: /resume/
 + optimize development for the User Interface based on functional specifications;
 + develop new features and provide enhancements to existing products;
 
-**Technologies Used**: JavaScript, HTML/HTML5, AngularJS, Bootstrap, CSS/CSS3, SASS, Grunt, Perforce, REST API.
+**Technologies Used**: JavaScript, HTML/HTML5, AngularJS, Bootstrap, CSS/CSS3, Sass, Grunt, Perforce, REST API.
 
 ----------
 
@@ -54,7 +54,7 @@ permalink: /resume/
 + provide occasional technical support to customer as required;
 + follow a defined schedule and prioritize workload to meet deadlines.
 
-**Technologies Used**: PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, SASS, Bootstrap, Git, Photoshop, MySQL.
+**Technologies Used**: PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass, Bootstrap, Git, Photoshop, MySQL.
 
 **Sample Projects**:
 
