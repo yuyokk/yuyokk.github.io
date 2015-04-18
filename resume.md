@@ -7,7 +7,7 @@ permalink: /resume/
 
 # Technical Skills
 
-+ **Languages** – JavaScript, HTML/HTML5, CSS, Perl, Python, PHP
++ **Languages** – JavaScript, HTML/HTML5, CSS/CSS3, Perl, Python, PHP
 + **Frameworks/Libraries/Tools** – AngularJS, Bootsrap, Sass, Grunt, Underscore, jQuery, REST API, Django, Jekyll
 + **CMS** – Wordpress, Drupal, Magento
 + **Version Control Systems** – Git, Svn, Perforce
