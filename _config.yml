@@ -10,3 +10,5 @@ twitter_username: yuyokk
 github_username:
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
