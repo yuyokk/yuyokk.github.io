@@ -18,7 +18,7 @@ permalink: /resume/
 
 # Professional Experience
 
-#### **Front End Developer** at [GlobalLogic](http://www.globallogic.com/ "GlobalLogic"), Kyiv, Ukraine<br/> _January 2015 – Present_
+**Front End Developer** at [GlobalLogic](http://www.globallogic.com/ "GlobalLogic"), Kyiv, Ukraine<br/> _January 2015 – Present_
 
 + translate visual and written designs into efficient front end components;
 + work closely with back-end developers to ensure the integrity of the UI;
@@ -29,7 +29,7 @@ permalink: /resume/
 
 ----------
 
-#### **Full Stack Freelancer** [oDesk](https://www.odesk.com/users/~01c8013e8487023dcf "Iurii Kucherov @oDesk")<br/> _July 2014 – Present_
+**Full Stack Freelancer** on [oDesk](https://www.odesk.com/users/~01c8013e8487023dcf "Iurii Kucherov @oDesk")<br/> _July 2014 – Present_
 
 **Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, Wordpress, Bootstrap.
 
@@ -48,7 +48,7 @@ permalink: /resume/
 
 ----------
 
-#### **Full Stack Developer** at [AffordableSEOs](http://affordableseos.com/ "AffordableSEOs"), Miami Beach, US<br/> _October 2013 – November 2014_
+**Full Stack Developer** at [AffordableSEOs](http://affordableseos.com/ "AffordableSEOs"), Miami Beach, US<br/> _October 2013 – November 2014_
 
 + create responsive websites suitable to work on every device;
 + provide occasional technical support to customer as required;
@@ -69,7 +69,7 @@ permalink: /resume/
 
 ----------
 
-#### **Web Developer** at [PortaOne](https://portaone.com/ "PortaOne"), Chernihiv, Ukraine<br/> _July 2011 – October 2013_
+**Web Developer** at [PortaOne](https://portaone.com/ "PortaOne"), Chernihiv, Ukraine<br/> _July 2011 – October 2013_
 
 + create web models or prototypes;
 + create new software components with minimal instructions from scratch;
