@@ -25,7 +25,7 @@ permalink: /resume/
 + optimize development for the User Interface based on functional specifications;
 + develop new features and provide enhancements to existing products;
 
-**Technologies Used**: JavaScript, HTML/HTML5, AngularJS, Bootstrap, CSS/CSS3, SASS, Grunt, Perforce, RestAPI.
+**Technologies Used**: JavaScript, HTML/HTML5, AngularJS, Bootstrap, CSS/CSS3, SASS, Grunt, Perforce, REST API.
 
 ----------
 
