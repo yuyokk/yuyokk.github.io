@@ -61,7 +61,7 @@ permalink: /resume/
 + [Knight Capital Funding](http://www.knightcapitalfunding.com/ "KnightCapitalFunding")
 + [Tiger Funding LLC](http://tigerfundingllc.com/ "TigerFundingLLC")
 + [Greenwich Capital Funding](http://greenwichcapitalfunding.com/ "GreenwichCapitalFunding")
-+ [Leadgen Co LLC](http://leadgencollc.com/ "LeadgencoLLC")
++ [Leadgenco LLC](http://leadgencollc.com/ "LeadgencoLLC")
 + [Novo Payment](http://novopayment.com/ "NovoPayment")
 + [Runner Tech](http://runnertech.com/ "RunnerTech")
 + [Denial M. Keil, P.A.](http://keillaw.com/ "Denial M. Keil, P.A.")
