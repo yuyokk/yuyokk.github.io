@@ -13,6 +13,6 @@ My name is Iurii <span class="text-dimmed">[iurii]</span> Kucherov, a Web Develo
 
 I have a passion to make the Web a better place.
 
-You can find out more info about my skills, experience and completed projects [here](/resume/ "Iurii Kucherov Resume").
+You can find more info about my skills, experience and completed projects [here](/resume/ "Iurii Kucherov Resume").
 
 I'm open for new challenging projects, whether it is some single page applications or bigger projects.
