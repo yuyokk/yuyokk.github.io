@@ -59,6 +59,7 @@ permalink: /resume/
 **Sample Projects**:
 
 + [Knight Capital Funding](http://www.knightcapitalfunding.com/ "KnightCapitalFunding")
++ [Max Merchant Cash Advance](http://maxmerchantcashadvance.com/ "Max Merchant Cash Advance")
 + [Tiger Funding LLC](http://tigerfundingllc.com/ "TigerFundingLLC")
 + [Greenwich Capital Funding](http://greenwichcapitalfunding.com/ "GreenwichCapitalFunding")
 + [Leadgenco LLC](http://leadgencollc.com/ "LeadgencoLLC")
