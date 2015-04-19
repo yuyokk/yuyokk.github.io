@@ -23,7 +23,7 @@ permalink: /resume/
 + translate visual and written designs into efficient front end components;
 + work closely with back-end developers to ensure the integrity of the UI;
 + optimize development for the User Interface based on functional specifications;
-+ develop new features and provide enhancements to existing products.
++ develop new features and provide enhancements to existing functionality.
 
 **Technologies Used**: JavaScript, HTML/HTML5, AngularJS, Bootstrap, CSS/CSS3, Sass, Grunt, Perforce, REST API.
 
