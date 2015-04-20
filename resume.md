@@ -18,7 +18,8 @@ permalink: /resume/
 
 # Professional Experience
 
-**Front End Developer** at [GlobalLogic](http://www.globallogic.com/ "GlobalLogic"), Kyiv, Ukraine<br/> _January 2015 – Present_
+**Front End Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
+_January 2015 – Present_
 
 + translate visual and written designs into efficient front end components;
 + work closely with back-end developers to ensure the integrity of the UI;
@@ -29,26 +30,28 @@ permalink: /resume/
 
 ----------
 
-**Full Stack Freelancer** on [oDesk](https://www.odesk.com/users/~01c8013e8487023dcf "Iurii Kucherov @oDesk")<br/> _July 2014 – Present_
+**Full Stack Freelancer** on <a href="https://www.odesk.com/users/~01c8013e8487023dcf" target="_blank">oDesk</a><br/>
+_July 2014 – Present_
 
 **Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, Wordpress, Bootstrap.
 
 **Sample Projects**:
 
-+ [Acute Diagnostics](http://acutediagnostics.com/ "AcuteDiagnostics")
-+ [Knollwood Investment Trust, LLC](http://trustknollwood.com/ "Knollwood Investment Trust, LLC")
-+ [Allen & Allen Insurance](http://allen-allen.com "Allen & Allen Insurance")
-+ [Brookside Christian School](http://brooksidechristian.com/ "Brookside Christian School")
-+ [Domesticaide](http://domesticaide.com/ "Domesticaide")
-+ [The Gutter Man of Tampa Bay](http://gutter-man.com/ "The Gutter Man of Tampa Bay")
-+ [Health Risk Screening, Inc](http://hrstonline.com/ "Health Risk Screening, Inc")
-+ [Rebecca McCay Salon Stylist](http://rebeccathestylist.com/ "Rebecca McCay Salon Stylist")
-+ [Lexington Insurance](http://pia-ins.com/ "Lexington Insurance")
-+ [95 South Facility Management](http://95southinc.com/ "95southinc")
++ <a href="http://acutediagnostics.com/" target="_blank">Acute Diagnostics</a>
++ <a href="http://trustknollwood.com/" target="_blank">Knollwood Investment Trust, LLC</a>
++ <a href="http://allen-allen.com" target="_blank">Allen & Allen Insurance</a>
++ <a href="http://brooksidechristian.com/" target="_blank">Brookside Christian School</a>
++ <a href="http://domesticaide.com/" target="_blank">Domesticaide</a>
++ <a href="http://gutter-man.com/" target="_blank">The Gutter Man of Tampa Bay</a>
++ <a href="http://hrstonline.com/" target="_blank">Health Risk Screening, Inc</a>
++ <a href="http://rebeccathestylist.com/" target="_blank">Rebecca McCay Salon Stylist</a>
++ <a href="http://pia-ins.com/" target="_blank">Lexington Insurance</a>
++ <a href="http://95southinc.com/" target="_blank">95 South Facility Management</a>
 
 ----------
 
-**Full Stack Developer** at [AffordableSEOs](http://affordableseos.com/ "AffordableSEOs"), Miami Beach, US<br/> _October 2013 – November 2014_
+**Full Stack Developer** at <a href="http://affordableseos.com/" target="_blank">AffordableSEOs</a>, Miami Beach, US<br/>
+_October 2013 – November 2014_
 
 + create responsive websites suitable to work on every device;
 + provide occasional technical support to customer as required;
@@ -58,19 +61,20 @@ permalink: /resume/
 
 **Sample Projects**:
 
-+ [Knight Capital Funding](http://www.knightcapitalfunding.com/ "KnightCapitalFunding")
-+ [Max Merchant Cash Advance](http://maxmerchantcashadvance.com/ "Max Merchant Cash Advance")
-+ [Tiger Funding LLC](http://tigerfundingllc.com/ "TigerFundingLLC")
-+ [Greenwich Capital Funding](http://greenwichcapitalfunding.com/ "GreenwichCapitalFunding")
-+ [Leadgenco LLC](http://leadgencollc.com/ "LeadgencoLLC")
-+ [Novo Payment](http://novopayment.com/ "NovoPayment")
-+ [Runner Tech](http://runnertech.com/ "RunnerTech")
-+ [Denial M. Keil, P.A.](http://keillaw.com/ "Denial M. Keil, P.A.")
-+ [Ally Glaser Attorney Miami Beach](http://allyglaser.com/ "Ally Glaser Attorney Miami Beach")
++ <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
++ <a href="http://maxmerchantcashadvance.com/" target="_blank">Max Merchant Cash Advance</a>
++ <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
++ <a href="http://greenwichcapitalfunding.com/" target="_blank">Greenwich Capital Funding</a>
++ <a href="http://leadgencollc.com/" target="_blank">Leadgenco LLC</a>
++ <a href="http://novopayment.com/" target="_blank">Novo Payment</a>
++ <a href="http://runnertech.com/" target="_blank">Runner Tech</a>
++ <a href="http://keillaw.com/" target="_blank">Denial M. Keil, P.A.</a>
++ <a href="http://allyglaser.com/" target="_blank">Ally Glaser Attorney Miami Beach</a>
 
 ----------
 
-**Web Developer** at [PortaOne](https://portaone.com/ "PortaOne"), Chernihiv, Ukraine<br/> _July 2011 – October 2013_
+**Web Developer** at <a href="https://portaone.com/" target="_blank">PortaOne</a>, Chernihiv, Ukraine<br/>
+_July 2011 – October 2013_
 
 + create web models or prototypes;
 + create new software components with minimal instructions from scratch;
@@ -100,6 +104,6 @@ Basketball, boxing, traveling, skating.
 
 
 # Social Profiles
-+ [LinkedIn](https://ua.linkedin.com/in/ikucherov "Iurii Kucherov LinkedIn Profile")
-+ [Facebook](https://www.facebook.com/ikucherov "Iurii Kucherov Facebook Profile")
-+ [StackOverflow](http://stackoverflow.com/users/1022726/yuyokk "Denial M. Keil, P.A.")
++ <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
++ <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
++ <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">StackOverflow</a>
