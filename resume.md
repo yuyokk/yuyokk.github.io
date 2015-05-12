@@ -30,7 +30,7 @@ _January 2015 – Present_
 
 ----------
 
-**Full Stack Freelancer** on <a href="https://www.odesk.com/users/~01c8013e8487023dcf" target="_blank">oDesk</a><br/>
+**Full Stack Freelancer** on <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a><br/>
 _July 2014 – Present_
 
 **Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, Wordpress, Bootstrap.
