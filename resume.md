@@ -35,7 +35,7 @@ _July 2014 – Present_
 
 **Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, Wordpress, Bootstrap.
 
-**Sample Projects**:
+**Projects**:
 
 + <a href="http://acutediagnostics.com/" target="_blank">Acute Diagnostics</a>
 + <a href="http://trustknollwood.com/" target="_blank">Knollwood Investment Trust, LLC</a>
@@ -61,7 +61,7 @@ _October 2013 – November 2014_
 
 **Technologies Used**: PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass, Bootstrap, Git, Photoshop, MySQL.
 
-**Sample Projects**:
+**Projects**:
 
 + <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
 + <a href="http://maxmerchantcashadvance.com/" target="_blank">Max Merchant Cash Advance</a>
