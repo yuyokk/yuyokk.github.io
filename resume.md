@@ -48,6 +48,7 @@ _July 2014 – Present_
 + <a href="http://pia-ins.com/" target="_blank">Lexington Insurance</a>
 + <a href="http://95southinc.com/" target="_blank">95 South Facility Management</a>
 + <a href="http://gomarathon.net/" target="_blank">Marathon Home Services, Sacramento</a>
++ <a href="http://beatonaccounting.com/" target="_blank">Beaton Accounting</a>
 + <a href="http://floorplanart.com/" target="_blank">Floor Plan Art</a>
 
 ----------
