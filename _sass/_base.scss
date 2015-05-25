@@ -93,6 +93,9 @@ a {
   color: $link-color;
   text-decoration: none;
 
+  -webkit-transition: color .15s;
+  transition: color .15s;
+
   &:hover {
       color: $brand-color;
       text-decoration: underline;
