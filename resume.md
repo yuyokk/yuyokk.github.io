@@ -108,5 +108,6 @@ Basketball, boxing, traveling, skating.
 
 # Social Profiles
 + <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
-+ <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
 + <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">StackOverflow</a>
++ <a href="https://github.com/yuyokk" target="_blank">GitHub</a>
++ <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
