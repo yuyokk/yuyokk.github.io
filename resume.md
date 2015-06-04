@@ -50,6 +50,7 @@ _July 2014 – Present_
 + <a href="http://gomarathon.net/" target="_blank">Marathon Home Services, Sacramento</a>
 + <a href="http://beatonaccounting.com/" target="_blank">Beaton Accounting</a>
 + <a href="http://floorplanart.com/" target="_blank">Floor Plan Art</a>
++ <a href="http://psetkin.com/" target="_blank">Patricia S. Etkin, P.A.</a>
 
 ----------
 
