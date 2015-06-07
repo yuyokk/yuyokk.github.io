@@ -51,6 +51,7 @@ _July 2014 – Present_
 + <a href="http://beatonaccounting.com/" target="_blank">Beaton Accounting</a>
 + <a href="http://floorplanart.com/" target="_blank">Floor Plan Art</a>
 + <a href="http://psetkin.com/" target="_blank">Patricia S. Etkin, P.A.</a>
++ <a href="http://ballagafreedman.com/" target="_blank">Ballaga & Freedman, LLP</a>
 
 ----------
 
