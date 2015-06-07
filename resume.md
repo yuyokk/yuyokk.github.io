@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-excerpt: Iurii Kucherov Front End / Full Stack Developer Resume
+excerpt: Iurii Kucherov Resume. Web Developer with experience in Wordpress, AngularJS and Bootstrap.
 permalink: /resume/
 ---
 

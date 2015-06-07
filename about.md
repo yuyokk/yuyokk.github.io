@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-excerpt: Iurii Kucherov Front End / Full Stack Developer
+excerpt: Iurii Kucherov. JavaScript, AngularJS and Bootstrap full time engineer and moonlight Wordpress freelancer.
 permalink: /about/
 ---
 
