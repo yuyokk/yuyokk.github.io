@@ -67,6 +67,7 @@ _October 2013 – November 2014_
 **Projects**:
 
 + <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
++ <a href="http://workingcapital.nyc/" target="_blank">Working Capital NYC</a>
 + <a href="http://maxmerchantcashadvance.com/" target="_blank">Max Merchant Cash Advance</a>
 + <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
 + <a href="http://greenwichcapitalfunding.com/" target="_blank">Greenwich Capital Funding</a>
