@@ -15,7 +15,6 @@ permalink: /resume/
 + **RDBMS** – MySQL, Postgres
 + **Operating Systems** – GNU/Linux, MacOS, Windows
 
-
 # Professional Experience
 
 **Front End Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
@@ -87,9 +86,7 @@ _July 2011 – October 2013_
 + participate in code reviews of own and others’ work;
 + identify and fix problems uncovered by testing or customers feedback.
 
-**Technologies Used**: Perl, Mason, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Git, SVN,
-REST API, MySQL.
-
+**Technologies Used**: Perl, Mason, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Git, SVN, REST API, MySQL.
 
 # Education
 
@@ -97,7 +94,6 @@ REST API, MySQL.
 
 + **Bachelor of Computer Science** _September 2007 – June 2011_
 + **Masters in Computer Science** _September 2011 – February 2013_
-
 
 # Languages
 
@@ -107,7 +103,6 @@ REST API, MySQL.
 # Interests
 
 Basketball, boxing, traveling, skating.
-
 
 # Social Profiles
 + <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
