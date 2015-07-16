@@ -1,0 +1,26 @@
+{
+  "name": "iurii.ninja",
+  "version": "1.0.0",
+  "description": "Iurii Kucherov personal site",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0",
+    "imagemin-pngquant": "^4.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyokk/yuyokk.github.io.git"
+  },
+  "author": "Iurii Kucherov <yuyokk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuyokk/yuyokk.github.io/issues"
+  },
+  "homepage": "http://iurii.ninja"
+}
