@@ -1,5 +1,3 @@
-# General settings
-source: src
 # Site settings
 title: Iurii Kucherov
 email: yuyokk@gmail.com
@@ -12,5 +10,6 @@ twitter_username: yuyokk
 github_username:
 # Build settings
 markdown: kramdown
+exclude: ['.sass-cache', 'node_modules']
 gems:
   - jekyll-sitemap

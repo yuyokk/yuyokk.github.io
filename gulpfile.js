@@ -9,15 +9,15 @@ var shell = require('gulp-shell');
 var server = require('gulp-server-livereload');
 
 var paths = {
-  sassEntryPoint: 'src/_sass/main.scss',
-  css: 'src/css/',
-  sass: 'src/_sass/**/*.scss',
-  images: 'src/images/**/*',
+  sassEntryPoint: '_sass/main.scss',
+  css: 'css/',
+  sass: '_sass/**/*.scss',
+  images: 'images/**/*',
   pages: [
-    'src/_includes/**/*.html',
-    'src/_layouts/**/*.html',
-    'src/_posts/**/*',
-    'src/*.md'
+    '_includes/**/*.html',
+    '_layouts/**/*.html',
+    '_posts/**/*',
+    '*.md'
   ]
 };
 
@@ -36,7 +36,7 @@ gulp.task('images', function() {
         svgoPlugins: [{ removeViewBox: false }],
         use: [pngquant()]
     }))
-    .pipe(gulp.dest('src/images/'));
+    .pipe(gulp.dest('images/'));
 });
 
 gulp.task('build', shell.task(['jekyll build']));
