@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://iurii.ninja/2015/06/19/preview-transition-timing-function-with-chrome-dev-tools.html</loc>
+    <lastmod>2015-06-19T03:35:10+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iurii.ninja/2015/05/29/creating-sticky-footer-css.html</loc>
+    <lastmod>2015-05-29T03:19:10+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iurii.ninja/2015/04/16/hello-world.html</loc>
+    <lastmod>2015-04-16T04:29:10+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iurii.ninja/about/</loc>
+  </url>
+  <url>
+    <loc>http://iurii.ninja/</loc>
+  </url>
+  <url>
+    <loc>http://iurii.ninja/resume/</loc>
+  </url>
+</urlset>

@@ -1,3 +1,6 @@
+# General settings
+source: src
+destination: dist
 # Site settings
 title: Iurii Kucherov
 email: yuyokk@gmail.com
