@@ -43,7 +43,7 @@ gulp.task('build', shell.task(['jekyll build']));
 
 // run the server on http://localhost:8000
 gulp.task('webserver', function() {
-  gulp.src('dist')
+  gulp.src('_site')
     .pipe(server({
       livereload: true
     }));
