@@ -36,7 +36,7 @@ gulp.task('images', function() {
         svgoPlugins: [{ removeViewBox: false }],
         use: [pngquant()]
     }))
-    .pipe(gulp.dest('images/'));
+    .pipe(gulp.dest('images'));
 });
 
 gulp.task('build', shell.task(['jekyll build']));
@@ -51,7 +51,6 @@ gulp.task('webserver', function() {
 
 gulp.task('watch', function() {
   gulp.watch(paths.sass, ['sass', 'build']);
-  gulp.watch(paths.images, ['images', 'build']);
   gulp.watch(paths.pages, ['build']);
 });
 
