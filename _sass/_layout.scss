@@ -35,8 +35,10 @@
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
+        @media (min-width: $on-laptop) {
+            &:not(:first-child) {
+                margin-left: 20px;
+            }
         }
 
         &:hover {
