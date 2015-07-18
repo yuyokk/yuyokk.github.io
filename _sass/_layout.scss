@@ -244,6 +244,11 @@
 
         list-style-type: none;
     }
+
+    .list-styled {
+        list-style-type: disc;
+        padding-left: 20px;
+    }
 }
 
 .post-disqus-thread {
