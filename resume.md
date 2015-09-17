@@ -71,10 +71,8 @@ _October 2013 – November 2014_
 + <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
 + <a href="http://greenwichcapitalfunding.com/" target="_blank">Greenwich Capital Funding</a>
 + <a href="http://leadgencollc.com/" target="_blank">Leadgenco LLC</a>
-+ <a href="http://novopayment.com/" target="_blank">Novo Payment</a>
 + <a href="http://runnertech.com/" target="_blank">Runner Tech</a>
 + <a href="http://keillaw.com/" target="_blank">Denial M. Keil, P.A.</a>
-+ <a href="http://allyglaser.com/" target="_blank">Ally Glaser Attorney Miami Beach</a>
 
 ----------
 
