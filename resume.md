@@ -8,7 +8,7 @@ permalink: /resume/
 # Technical Skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS/CSS3, Perl, Python, PHP
-+ **Frameworks/Libraries/Tools** – AngularJS, Bootstrap, Sass, Grunt, Underscore, jQuery, REST API, Django, Jekyll
++ **Frameworks/Libraries/Tools** – AngularJS, Bootstrap, Sass, Grunt/Gulp, Underscore, jQuery, REST API, Django, Jekyll
 + **CMS** – Wordpress, Drupal, Magento
 + **Version Control Systems** – Git, Svn, Perforce
 + **Web Servers** – Apache HTTP Server
