@@ -8,7 +8,7 @@ permalink: /resume/
 # Technical Skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS/CSS3, Perl, Python, PHP
-+ **Frameworks/Libraries/Tools** – AngularJS, Bootsrap, Sass, Grunt, Underscore, jQuery, REST API, Django, Jekyll
++ **Frameworks/Libraries/Tools** – AngularJS, Bootstrap, Sass, Grunt, Underscore, jQuery, REST API, Django, Jekyll
 + **CMS** – Wordpress, Drupal, Magento
 + **Version Control Systems** – Git, Svn, Perforce
 + **Web Servers** – Apache HTTP Server
@@ -18,7 +18,7 @@ permalink: /resume/
 # Professional Experience
 
 **Front End Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
-_January 2015 – Present_
+_January 2015 – September 2015_
 
 + translate visual and written designs into efficient front end components;
 + work closely with back-end developers to ensure the integrity of the UI;
@@ -103,7 +103,8 @@ _July 2011 – October 2013_
 Basketball, boxing, traveling, skating.
 
 # Social Profiles
++ <a href="https://github.com/yuyokk" target="_blank">GitHub</a>
 + <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
 + <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">StackOverflow</a>
-+ <a href="https://github.com/yuyokk" target="_blank">GitHub</a>
 + <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
++ <a href="https://twitter.com/" target="_blank">Twitter</a>
