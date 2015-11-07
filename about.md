@@ -9,7 +9,7 @@ permalink: /about/
 
 # Howdy!
 
-My name is Iurii <span class="text-dimmed">[iurii]</span> Kucherov, a web developer from Ukraine. JavaScript, AngularJS and Bootstrap full time engineer at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a> and moonlight Wordpress <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">freelancer</a>.
+My name is Iurii <span class="text-dimmed">[iurii]</span> Kucherov, a web developer originally from Ukraine. JavaScript full time engineer at <a href="http://www.luxoft.com/" target="_blank">Luxoft Poland</a> and moonlight Wordpress <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">freelancer</a>.
 
 I have a passion to make the Web a better place.
 

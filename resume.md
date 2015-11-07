@@ -17,6 +17,13 @@ permalink: /resume/
 
 # Professional Experience
 
+**Front End Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
+_October 2015 – Present_
+
+**Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, ReactJS, Webpack, Karma, Less, Git.
+
+----------
+
 **Front End Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
 _January 2015 – September 2015_
 
@@ -65,6 +72,7 @@ _October 2013 – November 2014_
 
 **Projects**:
 
++ <a href="http://www.ebusinessfunding.net/" target="_blank">Small Business Loans for Working Capital</a>
 + <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
 + <a href="http://workingcapital.nyc/" target="_blank">Working Capital NYC</a>
 + <a href="http://maxmerchantcashadvance.com/" target="_blank">Max Merchant Cash Advance</a>
