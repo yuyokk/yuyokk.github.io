@@ -115,4 +115,4 @@ Basketball, boxing, traveling, skating.
 + <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
 + <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">StackOverflow</a>
 + <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
-+ <a href="https://twitter.com/" target="_blank">Twitter</a>
++ <a href="https://twitter.com/yuyokk" target="_blank">Twitter</a>
