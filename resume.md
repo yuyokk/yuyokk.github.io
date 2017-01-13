@@ -61,7 +61,7 @@ _July 2014 – Present_
 
 ----------
 
-**Full Stack Developer** at <a href="http://affordableseos.com/" target="_blank">AffordableSEOs</a>, Miami Beach, US<br/>
+**Full Stack Developer** at AffordableSEOs, Miami Beach, US<br/>
 _October 2013 – November 2014_
 
 + create responsive websites suitable to work on every device;
