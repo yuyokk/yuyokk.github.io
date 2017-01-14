@@ -31,7 +31,7 @@ _January 2015 – September 2015_
 + optimize development for the User Interface based on functional specifications;
 + develop new features and provide enhancements to existing functionality.
 
-**Technologies Used**: JavaScript, HTML/HTML5, AngularJS, Bootstrap, CSS/CSS3, Sass, Grunt, Perforce, REST API.
+**Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, AngularJS, Bootstrap, Sass, Grunt, Perforce, REST API.
 
 ----------
 
