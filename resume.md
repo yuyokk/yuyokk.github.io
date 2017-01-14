@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Title
 excerpt: Iurii Kucherov Resume. Software Developer with experience in Javascript (React and Angular), Wordpress and Bootstrap.
 permalink: /resume/
 ---
