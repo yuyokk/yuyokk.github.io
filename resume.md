@@ -16,14 +16,14 @@ permalink: /resume/
 
 # Professional Experience
 
-**Front End Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
+**Frontend Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
 _October 2015 – Present_
 
 **Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, ReactJS, Webpack, Jest, Less, Git.
 
 ----------
 
-**Front End Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
+**Frontend Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
 _January 2015 – September 2015_
 
 + translate visual and written designs into efficient front end components;
