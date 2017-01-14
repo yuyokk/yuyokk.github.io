@@ -97,8 +97,8 @@ _July 2011 – October 2013_
 
 **Chernihiv State Technological University**, Chernihiv, Ukraine
 
-+ **Bachelor of Computer Science** _September 2007 – June 2011_
 + **Masters in Computer Science** _September 2011 – February 2013_
++ **Bachelor of Computer Science** _September 2007 – June 2011_
 
 # Languages
 
