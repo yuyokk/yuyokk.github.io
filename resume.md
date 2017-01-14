@@ -36,7 +36,7 @@ _January 2015 – September 2015_
 ----------
 
 **Full Stack Freelancer** on <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a><br/>
-_July 2014 – Present_
+_July 2014 – July 2015_
 
 **Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, Wordpress, Bootstrap.
 
