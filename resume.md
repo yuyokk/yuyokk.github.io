@@ -16,6 +16,8 @@ permalink: /resume/
 
 # Professional experience
 
+----------
+
 **Frontend Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
 _October 2015 – Present_
 
