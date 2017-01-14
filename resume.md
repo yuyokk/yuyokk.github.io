@@ -27,6 +27,7 @@ _October 2015 – Present_
 _January 2015 – September 2015_
 
 **Responsibilities**:
+
 + translate visual and written designs into efficient front end components;
 + work closely with back-end developers to ensure the integrity of the UI;
 + optimize development for the User Interface based on functional specifications;
@@ -62,6 +63,7 @@ _July 2014 – July 2015_
 _October 2013 – November 2014_
 
 **Responsibilities**:
+
 + create responsive websites suitable to work on every device;
 + provide occasional technical support to customer as required;
 + follow a defined schedule and prioritize workload to meet deadlines.
@@ -85,6 +87,7 @@ _October 2013 – November 2014_
 _July 2011 – October 2013_
 
 **Responsibilities**:
+
 + create web models or prototypes;
 + create new software components with minimal instructions from scratch;
 + participate in code reviews of own and others’ work;
