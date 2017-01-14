@@ -103,15 +103,12 @@ _July 2011 – October 2013_
 # Languages
 
 + English – advanced;
-+ Ukrainian, Russian – native.
-
-# Interests
-
-Basketball, boxing, traveling, skating.
++ Ukrainian, Russian – native;
++ Polish - basic.
 
 # Social Profiles
 + <a href="https://github.com/yuyokk" target="_blank">GitHub</a>
-+ <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
 + <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">StackOverflow</a>
-+ <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
++ <a href="https://ua.linkedin.com/in/ikucherov" target="_blank">LinkedIn</a>
 + <a href="https://twitter.com/yuyokk" target="_blank">Twitter</a>
++ <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
