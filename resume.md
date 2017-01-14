@@ -18,7 +18,7 @@ permalink: /resume/
 
 ----------
 
-**Frontend Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
+## **Frontend Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
 _October 2015 – Present_
 
 **Technologies used**
@@ -27,7 +27,7 @@ JavaScript, HTML/HTML5, CSS/CSS3, React, Webpack, Jest, Less, Git.
 
 ----------
 
-**Frontend Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
+## **Frontend Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>, Kyiv, Ukraine<br/>
 _January 2015 – September 2015_
 
 **Responsibilities**
@@ -43,7 +43,7 @@ JavaScript, HTML/HTML5, CSS/CSS3, Angular, Bootstrap, Sass, Grunt, Perforce, RES
 
 ----------
 
-**Full Stack Freelancer** on <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a><br/>
+## **Full Stack Freelancer** on <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a><br/>
 _July 2014 – July 2015_
 
 **Technologies used**
@@ -67,7 +67,7 @@ Wordpress, Bootstrap, JavaScript, HTML/HTML5, CSS/CSS3.
 
 ----------
 
-**Full Stack Developer** at AffordableSEOs, Miami Beach, US<br/>
+## **Full Stack Developer** at AffordableSEOs, Miami Beach, US<br/>
 _October 2013 – November 2014_
 
 **Responsibilities**
@@ -93,7 +93,7 @@ PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass,
 
 ----------
 
-**Web Developer** at <a href="https://portaone.com/" target="_blank">PortaOne</a>, Chernihiv, Ukraine<br/>
+## **Web Developer** at <a href="https://portaone.com/" target="_blank">PortaOne</a>, Chernihiv, Ukraine<br/>
 _July 2011 – October 2013_
 
 **Responsibilities**
