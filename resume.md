@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Resume
-excerpt: Iurii Kucherov Resume. Web Developer with experience in Wordpress, AngularJS and Bootstrap.
+excerpt: Iurii Kucherov Resume. Software Developer with experience in Javascript (React and Angular), Wordpress and Bootstrap.
 permalink: /resume/
 ---
 
 # Technical skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS/CSS3
-+ **Frameworks/Libraries/Tools** – ReactJS, AngularJS, jQuery, Bootstrap, Sass, Webpack, Grunt, Gulp, Lodash
++ **Frameworks/Libraries/Tools** – React, Angular, jQuery, Bootstrap, Sass, Webpack, Grunt, Gulp, Lodash
 + **CMS** – Wordpress
 + **Version Control Systems** – Git, Svn
 + **Web Servers** – Apache HTTP Server
@@ -23,7 +23,7 @@ _October 2015 – Present_
 
 **Technologies used**
 
-JavaScript, HTML/HTML5, CSS/CSS3, ReactJS, Webpack, Jest, Less, Git.
+JavaScript, HTML/HTML5, CSS/CSS3, React, Webpack, Jest, Less, Git.
 
 ----------
 
@@ -39,7 +39,7 @@ _January 2015 – September 2015_
 
 **Technologies used**
 
-JavaScript, HTML/HTML5, CSS/CSS3, AngularJS, Bootstrap, Sass, Grunt, Perforce, REST API.
+JavaScript, HTML/HTML5, CSS/CSS3, Angular, Bootstrap, Sass, Grunt, Perforce, REST API.
 
 ----------
 
@@ -48,7 +48,7 @@ _July 2014 – July 2015_
 
 **Technologies used**
 
-JavaScript, HTML/HTML5, CSS/CSS3, Wordpress, Bootstrap.
+Wordpress, Bootstrap, JavaScript, HTML/HTML5, CSS/CSS3.
 
 **Some of projects**
 
