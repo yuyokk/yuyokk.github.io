@@ -7,12 +7,11 @@ permalink: /resume/
 
 # Technical Skills
 
-+ **Languages** – JavaScript, HTML/HTML5, CSS/CSS3, Perl, Python, PHP
-+ **Frameworks/Libraries/Tools** – AngularJS, Bootstrap, Sass, Grunt/Gulp, Underscore, jQuery, REST API, Django, Jekyll
-+ **CMS** – Wordpress, Drupal, Magento
-+ **Version Control Systems** – Git, Svn, Perforce
++ **Languages** – JavaScript, HTML/HTML5, CSS/CSS3
++ **Frameworks/Libraries/Tools** – ReactJS, AngularJS, jQuery, Bootstrap, Sass, Webpack, Grunt, Gulp, Lodash
++ **CMS** – Wordpress
++ **Version Control Systems** – Git, Svn
 + **Web Servers** – Apache HTTP Server
-+ **RDBMS** – MySQL, Postgres
 + **Operating Systems** – GNU/Linux, MacOS, Windows
 
 # Professional Experience
@@ -20,7 +19,7 @@ permalink: /resume/
 **Front End Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>, Krakow, Poland<br/>
 _October 2015 – Present_
 
-**Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, ReactJS, Webpack, Karma, Less, Git.
+**Technologies Used**: JavaScript, HTML/HTML5, CSS/CSS3, ReactJS, Webpack, Jest, Less, Git.
 
 ----------
 
