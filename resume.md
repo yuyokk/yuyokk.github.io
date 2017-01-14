@@ -62,10 +62,8 @@ _July 2014 – July 2015_
 **Full Stack Developer** at AffordableSEOs, Miami Beach, US<br/>
 _October 2013 – November 2014_
 
-
-<div>
 **Responsibilities**:
-</div>
+
 + create responsive websites suitable to work on every device;
 + provide occasional technical support to customer as required;
 + follow a defined schedule and prioritize workload to meet deadlines.
