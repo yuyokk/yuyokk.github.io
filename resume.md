@@ -115,7 +115,8 @@ Perl, Mason, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Git, SVN, REST API, MySQL
 
 # Education
 
-**<a href="http://en.stu.cn.ua/" target="_blank">Chernihiv National University of Technology</a>**, Chernihiv, Ukraine
+**<a href="http://en.stu.cn.ua/" target="_blank">Chernihiv National University of Technology</a>**<br/>
+Chernihiv, Ukraine
 
 + **Masters in Computer Science** _September 2011 – February 2013_
 + **Bachelor of Computer Science** _September 2007 – June 2011_
