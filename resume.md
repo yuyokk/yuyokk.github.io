@@ -8,7 +8,7 @@ permalink: /resume/
 # Technical skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS/CSS3
-+ **Frameworks/Libraries/Tools** – React, Angular, jQuery, Bootstrap, Sass, Webpack, Grunt, Gulp, Lodash
++ **Frameworks/Libraries/Tools** – React, Redux, Angular, jQuery, Bootstrap, Sass, Webpack, Grunt, Gulp, Lodash
 + **CMS** – Wordpress
 + **Version Control Systems** – Git, Svn
 + **Web Servers** – Apache HTTP Server
@@ -22,7 +22,7 @@ _October 2015 – Present_
 
 **Technologies used**
 
-JavaScript, HTML/HTML5, CSS/CSS3, React, Webpack, Jest, Less, Git.
+JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Jest, Less, Git.
 
 ----------
 
