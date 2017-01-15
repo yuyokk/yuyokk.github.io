@@ -22,7 +22,7 @@ _October 2015 – Present_
 
 **Technologies used**
 
-JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Jest, Less, Git.
+JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Jest, Less, Git, WebSockets.
 
 ----------
 
