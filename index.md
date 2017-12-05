@@ -15,113 +15,216 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
 
 # Professional experience
 
-**Software Developer** at <a href="https://www.sabre.com/" target="_blank">Sabre</a><br/>
-Krakow, Poland<br/>
-_April 2017 – December 2017_
+<p>
+  <strong>Software Developer</strong> at
+  <a href="https://www.sabre.com/" target="_blank">Sabre</a>
+  <br /> Krakow, Poland
+  <br />
+  <em>April 2017 – December 2017</em>
+</p>
 
-**Technologies used**
+<div class="js-expandable">
+  <p>
+    <strong>Technologies used</strong>
+  </p>
 
-JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Mocha, Chai, Less, Git.
+  <p>JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Mocha, Chai, Less, Git.</p>
+</div>
 
-----------
+<hr />
 
-**Frontend Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a><br/>
-Krakow, Poland<br/>
-_October 2015 – March 2017_
+<p>
+  <strong>Frontend Developer</strong> at
+  <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>
+  <br /> Krakow, Poland
+  <br />
+  <em>October 2015 – March 2017</em>
+</p>
 
-**Responsibilities**
+<div class="js-expandable">
+  <p>
+    <strong>Responsibilities</strong>
+  </p>
 
-+ design and develop components for a bank system;
-+ mentor junior developers;
-+ performing code reviews.
+  <ul>
+    <li>design and develop components for a bank system;</li>
+    <li>mentor junior developers;</li>
+    <li>performing code reviews.</li>
+  </ul>
 
-**Technologies used**
+  <p>
+    <strong>Technologies used</strong>
+  </p>
 
-JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Jest, Less, Git, WebSockets.
+  <p>JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Jest, Less, Git, WebSockets.</p>
+</div>
 
-----------
+<hr />
 
-**Frontend Developer** at <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a><br/>
-Kyiv, Ukraine<br/>
-_January 2015 – September 2015_
+<p>
+  <strong>Frontend Developer</strong> at
+  <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>
+  <br /> Kyiv, Ukraine
+  <br />
+  <em>January 2015 – September 2015</em>
+</p>
 
-**Responsibilities**
+<div class="js-expandable">
+  <p>
+    <strong>Responsibilities</strong>
+  </p>
 
-+ translate visual and written designs into efficient front end components;
-+ work closely with back-end developers to ensure the integrity of the UI;
-+ optimize development for the User Interface based on functional specifications;
-+ develop new features and provide enhancements to existing functionality.
+  <ul>
+    <li>translate visual and written designs into efficient front end components;</li>
+    <li>work closely with back-end developers to ensure the integrity of the UI;</li>
+    <li>optimize development for the User Interface based on functional specifications;</li>
+    <li>develop new features and provide enhancements to existing functionality.</li>
+  </ul>
 
-**Technologies used**
+  <p>
+    <strong>Technologies used</strong>
+  </p>
 
-JavaScript, HTML/HTML5, CSS/CSS3, Angular, Bootstrap, Sass, Grunt, Perforce, REST API.
+  <p>JavaScript, HTML/HTML5, CSS/CSS3, Angular, Bootstrap, Sass, Grunt, Perforce, REST API.</p>
+</div>
 
-----------
+<hr />
 
-**Full Stack Freelancer** on <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a><br/>
-_July 2014 – July 2015_
+<p>
+  <strong>Full Stack Freelancer</strong> on
+  <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a>
+  <br />
+  <em>July 2014 – July 2015</em>
+</p>
 
-**Technologies used**
+<div class="js-expandable">
+  <p>
+    <strong>Technologies used</strong>
+  </p>
 
-Wordpress, Bootstrap, JavaScript, HTML/HTML5, CSS/CSS3.
+  <p>Wordpress, Bootstrap, JavaScript, HTML/HTML5, CSS/CSS3.</p>
 
-**Some of projects**
+  <p>
+    <strong>Some of projects</strong>
+  </p>
 
-+ <a href="http://acutediagnostics.com/" target="_blank">Acute Diagnostics</a>
-+ <a href="http://allen-allen.com" target="_blank">Allen & Allen Insurance</a>
-+ <a href="http://brooksidechristian.com/" target="_blank">Brookside Christian School</a>
-+ <a href="http://domesticaide.com/" target="_blank">Domesticaide</a>
-+ <a href="http://gutter-man.com/" target="_blank">The Gutter Man of Tampa Bay</a>
-+ <a href="http://rebeccathestylist.com/" target="_blank">Rebecca McCay Salon Stylist</a>
-+ <a href="http://pia-ins.com/" target="_blank">Lexington Insurance</a>
-+ <a href="http://95southinc.com/" target="_blank">95 South Facility Management</a>
-+ <a href="http://gomarathon.net/" target="_blank">Marathon Home Services, Sacramento</a>
-+ <a href="http://beatonaccounting.com/" target="_blank">Beaton Accounting</a>
-+ <a href="http://ballagafreedman.com/" target="_blank">Ballaga & Freedman, LLP</a>
+  <ul>
+    <li>
+      <a href="http://acutediagnostics.com/" target="_blank">Acute Diagnostics</a>
+    </li>
+    <li>
+      <a href="http://allen-allen.com" target="_blank">Allen &amp; Allen Insurance</a>
+    </li>
+    <li>
+      <a href="http://brooksidechristian.com/" target="_blank">Brookside Christian School</a>
+    </li>
+    <li>
+      <a href="http://domesticaide.com/" target="_blank">Domesticaide</a>
+    </li>
+    <li>
+      <a href="http://gutter-man.com/" target="_blank">The Gutter Man of Tampa Bay</a>
+    </li>
+    <li>
+      <a href="http://rebeccathestylist.com/" target="_blank">Rebecca McCay Salon Stylist</a>
+    </li>
+    <li>
+      <a href="http://pia-ins.com/" target="_blank">Lexington Insurance</a>
+    </li>
+    <li>
+      <a href="http://95southinc.com/" target="_blank">95 South Facility Management</a>
+    </li>
+    <li>
+      <a href="http://gomarathon.net/" target="_blank">Marathon Home Services, Sacramento</a>
+    </li>
+    <li>
+      <a href="http://beatonaccounting.com/" target="_blank">Beaton Accounting</a>
+    </li>
+    <li>
+      <a href="http://ballagafreedman.com/" target="_blank">Ballaga &amp; Freedman, LLP</a>
+    </li>
+  </ul>
+</div>
 
-----------
+<hr />
 
-**Full Stack Developer** at AffordableSEOs<br/>
-Miami Beach, US<br/>
-_October 2013 – November 2014_
+<p>
+  <strong>Full Stack Developer</strong> at AffordableSEOs
+  <br /> Miami Beach, US
+  <br />
+  <em>October 2013 – November 2014</em>
+</p>
 
-**Responsibilities**
+<div class="js-expandable">
+  <p>
+    <strong>Responsibilities</strong>
+  </p>
 
-+ create responsive websites suitable to work on every device;
-+ provide occasional technical support to customer as required;
-+ follow a defined schedule and prioritize workload to meet deadlines.
+  <ul>
+    <li>create responsive websites suitable to work on every device;</li>
+    <li>provide occasional technical support to customer as required;</li>
+    <li>follow a defined schedule and prioritize workload to meet deadlines.</li>
+  </ul>
 
-**Technologies used**
+  <p>
+    <strong>Technologies used</strong>
+  </p>
 
-PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass, Bootstrap, Git, Photoshop, MySQL.
+  <p>PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass, Bootstrap, Git, Photoshop, MySQL.</p>
 
-**Some of projects**
+  <p>
+    <strong>Some of projects</strong>
+  </p>
 
-+ <a href="http://www.ebusinessfunding.net/" target="_blank">Small Business Loans for Working Capital</a>
-+ <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
-+ <a href="http://workingcapital.nyc/" target="_blank">Working Capital NYC</a>
-+ <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
-+ <a href="http://leadgencollc.com/" target="_blank">Leadgenco LLC</a>
-+ <a href="http://keillaw.com/" target="_blank">Denial M. Keil, P.A.</a>
+  <ul>
+    <li>
+      <a href="http://www.ebusinessfunding.net/" target="_blank">Small Business Loans for Working Capital</a>
+    </li>
+    <li>
+      <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
+    </li>
+    <li>
+      <a href="http://workingcapital.nyc/" target="_blank">Working Capital NYC</a>
+    </li>
+    <li>
+      <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
+    </li>
+    <li>
+      <a href="http://leadgencollc.com/" target="_blank">Leadgenco LLC</a>
+    </li>
+    <li>
+      <a href="http://keillaw.com/" target="_blank">Denial M. Keil, P.A.</a>
+    </li>
+  </ul>
+</div>
 
-----------
+<hr />
 
-**Web Developer** at <a href="https://portaone.com/" target="_blank">PortaOne</a><br/>
-Chernihiv, Ukraine<br/>
-_July 2011 – October 2013_
+<p>
+  <strong>Web Developer</strong> at
+  <a href="https://portaone.com/" target="_blank">PortaOne</a>
+  <br /> Chernihiv, Ukraine
+  <br />
+  <em>July 2011 – October 2013</em>
+</p>
 
-**Responsibilities**
+<div class="js-expandable">
+  <p>
+    <strong>Responsibilities</strong>
+  </p>
 
-+ create web models or prototypes;
-+ create new software components with minimal instructions from scratch;
-+ participate in code reviews of own and others’ work;
-+ identify and fix problems uncovered by testing or customers feedback.
+  <ul>
+    <li>create web models or prototypes;</li>
+    <li>create new software components with minimal instructions from scratch;</li>
+    <li>participate in code reviews of own and others’ work;</li>
+    <li>identify and fix problems uncovered by testing or customers feedback.</li>
+  </ul>
 
-**Technologies used**
+  <p>
+    <strong>Technologies used</strong>
+  </p>
 
-Perl, Mason, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Git, SVN, REST API, MySQL.
-
-----------
+  <p>Perl, Mason, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Git, SVN, REST API, MySQL.</p>
+</div>
 
 # Education
 
@@ -142,3 +245,84 @@ Chernihiv, Ukraine
 + <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">Stack Overflow</a>
 + <a href="https://twitter.com/yuyokk" target="_blank">Twitter</a>
 + <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
+
+<script>
+  var Expander = (function () {
+    var initiallyExpanded = false;
+    var nodes = document.getElementsByClassName('js-expandable');
+
+    function drawNodes(nodes) {
+      Array.prototype.forEach.call(nodes, function (node) {
+        if (!initiallyExpanded) {
+          node.dataset.expanded = 'off';
+          redrawNode(node);
+        } else {
+          node.dataset.expanded = 'on';
+          redrawNode(node);
+        }
+      });
+    }
+
+    function renderShowDetails(node) {
+      var button = document.createElement('button');
+      button.innerHTML = 'Show details +';
+      addClass(button, 'details-control');
+
+      button.onclick = function () {
+        node.dataset.expanded = 'on';
+        redrawNode(node);
+      };
+
+      node.parentNode.insertBefore(button, node);
+    }
+
+    function renderHideDetails(node) {
+      var button = document.createElement('button');
+      button.innerHTML = 'Hide details -';
+      addClass(button, 'details-control');
+
+      button.onclick = function () {
+        node.dataset.expanded = 'off';
+        redrawNode(node);
+      };
+
+      node.parentNode.insertBefore(button, node);
+    }
+
+    function redrawNode(node) {
+      if (node.dataset.expanded === 'on') {
+        removePreviousButton(node);
+        renderHideDetails(node);
+        removeClass(node, 'hidden');
+      } else {
+        removePreviousButton(node);
+        renderShowDetails(node);
+        addClass(node, 'hidden');
+      }
+    }
+
+    function addClass(node, className) {
+      node.classList.add(className);
+    }
+
+    function removeClass(node, className) {
+      node.classList.remove(className);
+    }
+
+    function removePreviousButton(node) {
+      const previous = node.previousSibling;
+
+      if (previous.tagName === 'BUTTON') {
+        previous.remove();
+      }
+    }
+
+    return {
+      init: function () {
+        drawNodes(nodes)
+      }
+    }
+  })();
+
+  Expander.init();
+</script>
