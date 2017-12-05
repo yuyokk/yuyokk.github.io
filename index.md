@@ -263,38 +263,35 @@ Chernihiv, Ukraine
       });
     }
 
-    function renderShowDetails(node) {
-      var button = document.createElement('button');
-      button.innerHTML = 'Show details +';
+    function renderButton(node, isExpanded) {
+      const previous = node.previousSibling;
+      const isBtnMounted = previous.tagName === 'BUTTON';
+      let button;
+
+      if (isBtnMounted) {
+        button = previous;
+      } else {
+        button = document.createElement('button');
+      }
+
+      button.innerHTML = isExpanded ? 'Hide details -' : 'Show details +';
 
       button.onclick = function () {
-        node.dataset.expanded = 'on';
+        node.dataset.expanded = isExpanded ? 'off' : 'on';
         redrawNode(node);
       };
 
-      node.parentNode.insertBefore(button, node);
-    }
-
-    function renderHideDetails(node) {
-      var button = document.createElement('button');
-      button.innerHTML = 'Hide details -';
-
-      button.onclick = function () {
-        node.dataset.expanded = 'off';
-        redrawNode(node);
-      };
-
-      node.parentNode.insertBefore(button, node);
+      if (!isBtnMounted) {
+        node.parentNode.insertBefore(button, node);
+      }
     }
 
     function redrawNode(node) {
       if (node.dataset.expanded === 'on') {
-        removePreviousButton(node);
-        renderHideDetails(node);
+        renderButton(node, true);
         removeClass(node, 'hidden');
       } else {
-        removePreviousButton(node);
-        renderShowDetails(node);
+        renderButton(node, false);
         addClass(node, 'hidden');
       }
     }
@@ -305,14 +302,6 @@ Chernihiv, Ukraine
 
     function removeClass(node, className) {
       node.classList.remove(className);
-    }
-
-    function removePreviousButton(node) {
-      const previous = node.previousSibling;
-
-      if (previous.tagName === 'BUTTON') {
-        previous.remove();
-      }
     }
 
     return {
