@@ -16,9 +16,19 @@ permalink: /resume/
 
 # Professional experience
 
+**Software Developer** at <a href="https://www.sabre.com/" target="_blank">Sabre</a><br/>
+Krakow, Poland<br/>
+_April 2017 – December 2017_
+
+**Technologies used**
+
+JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Mocha, Chai, Less, Git.
+
+----------
+
 **Frontend Developer** at <a href="http://www.luxoft.com/" target="_blank">Luxoft</a><br/>
 Krakow, Poland<br/>
-_October 2015 – Present_
+_October 2015 – March 2017_
 
 **Technologies used**
 
@@ -53,7 +63,6 @@ Wordpress, Bootstrap, JavaScript, HTML/HTML5, CSS/CSS3.
 **Some of projects**
 
 + <a href="http://acutediagnostics.com/" target="_blank">Acute Diagnostics</a>
-+ <a href="http://trustknollwood.com/" target="_blank">Knollwood Investment Trust, LLC</a>
 + <a href="http://allen-allen.com" target="_blank">Allen & Allen Insurance</a>
 + <a href="http://brooksidechristian.com/" target="_blank">Brookside Christian School</a>
 + <a href="http://domesticaide.com/" target="_blank">Domesticaide</a>
@@ -87,9 +96,7 @@ PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass,
 + <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
 + <a href="http://workingcapital.nyc/" target="_blank">Working Capital NYC</a>
 + <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
-+ <a href="http://greenwichcapitalfunding.com/" target="_blank">Greenwich Capital Funding</a>
 + <a href="http://leadgencollc.com/" target="_blank">Leadgenco LLC</a>
-+ <a href="http://runnertech.com/" target="_blank">Runner Tech</a>
 + <a href="http://keillaw.com/" target="_blank">Denial M. Keil, P.A.</a>
 
 ----------
