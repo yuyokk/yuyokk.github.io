@@ -6,10 +6,10 @@ description: >
   JavaScript, AngularJS and Bootstrap full time engineer and moonlight Wordpress freelancer.
 baseurl: ""
 url: "http://iurii.ninja"
-# twitter_username: yuyokk
 github_username:
-# Build settings
 markdown: kramdown
 exclude: ['.sass-cache', 'node_modules']
-gems:
+sass:
+    style: compressed
+plugins:
   - jekyll-sitemap

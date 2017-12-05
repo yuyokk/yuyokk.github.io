@@ -23,7 +23,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
   <em>April 2017 – December 2017</em>
 </p>
 
-<div class="js-expandable">
+<div class="collapsible-section">
   <p>
     <strong>Technologies used</strong>
   </p>
@@ -41,7 +41,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
   <em>October 2015 – March 2017</em>
 </p>
 
-<div class="js-expandable">
+<div class="collapsible-section">
   <p>
     <strong>Responsibilities</strong>
   </p>
@@ -69,7 +69,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
   <em>January 2015 – September 2015</em>
 </p>
 
-<div class="js-expandable">
+<div class="collapsible-section">
   <p>
     <strong>Responsibilities</strong>
   </p>
@@ -97,7 +97,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
   <em>July 2014 – July 2015</em>
 </p>
 
-<div class="js-expandable">
+<div class="collapsible-section">
   <p>
     <strong>Technologies used</strong>
   </p>
@@ -154,7 +154,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
   <em>October 2013 – November 2014</em>
 </p>
 
-<div class="js-expandable">
+<div class="collapsible-section">
   <p>
     <strong>Responsibilities</strong>
   </p>
@@ -207,7 +207,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
   <em>July 2011 – October 2013</em>
 </p>
 
-<div class="js-expandable">
+<div class="collapsible-section">
   <p>
     <strong>Responsibilities</strong>
   </p>
@@ -249,7 +249,7 @@ Chernihiv, Ukraine
 <script>
   var Expander = (function () {
     var initiallyExpanded = false;
-    var nodes = document.getElementsByClassName('js-expandable');
+    var nodes = document.getElementsByClassName('collapsible-section');
 
     function drawNodes(nodes) {
       Array.prototype.forEach.call(nodes, function (node) {
@@ -266,7 +266,6 @@ Chernihiv, Ukraine
     function renderShowDetails(node) {
       var button = document.createElement('button');
       button.innerHTML = 'Show details +';
-      addClass(button, 'details-control');
 
       button.onclick = function () {
         node.dataset.expanded = 'on';
@@ -279,7 +278,6 @@ Chernihiv, Ukraine
     function renderHideDetails(node) {
       var button = document.createElement('button');
       button.innerHTML = 'Hide details -';
-      addClass(button, 'details-control');
 
       button.onclick = function () {
         node.dataset.expanded = 'off';
