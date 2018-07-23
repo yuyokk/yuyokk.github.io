@@ -7,7 +7,7 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
 # Overview
 
 <p>
-Software developer with overall experience more than 7 years. Currently building applications as a Full Stack developer (React, Node.js) and deploying them on AWS services.
+Software developer with overall experience more than 7 years. Currently building web applications as a Full Stack developer (React, Node.js) and deploying them on AWS services.
 </p>
 
 # Technical skills
