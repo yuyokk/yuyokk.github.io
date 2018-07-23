@@ -4,19 +4,50 @@ title: Resume
 excerpt: Iurii Kucherov Frontend Developer Resume.
 ---
 
+# Overview
+
+<p>
+Software developer with overall experience more than 7 years. Currently building applications as a Full Stack developer (React, Node.js) and deploying them on AWS services.
+</p>
+
 # Technical skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS/CSS3
-+ **Frameworks/Libraries/Tools** – React, Redux, Jest, Chai, Bootstrap, Sass, Less, Webpack, Grunt, Gulp, Lodash
-+ **CMS** – Wordpress
-+ **Version Control Systems** – Git, Svn
++ **Frameworks/Libraries/Tools** – React, Node.js, Redux, Jest, Bootstrap, Sass, Webpack, Gulp, Lodash, Pug
++ **Version Control Systems** – Git
 + **Web Servers** – Apache HTTP Server
-+ **Operating Systems** – GNU/Linux, MacOS, Windows
++ **AWS Services** – Mobile Hub, AWS Lambda, Api Getaway, Cognito, DynamoDB, AWS Elastic Beanstalk, EC2, S3
 
 # Professional experience
 
 <p>
-  <strong>Software Developer</strong> at
+  <strong>Full Stack Developer</strong> at
+  <a href="https://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
+  <br /> Remote
+  <br />
+  <em>January 2018 – Present</em>
+</p>
+
+<div class="collapsible-section">
+  <p>
+    <strong>Responsibilities</strong>
+  </p>
+
+  <ul>
+    <li>AWS: Amazon Cognito, Lambda, API Getaway, Mobile Hub, EC2, S3</li>
+  </ul>
+
+  <p>
+    <strong>Technologies used</strong>
+  </p>
+
+  <p>JavaScript, HTML/HTML5, CSS/CSS3, Node.js, React, Jekyll, Git.</p>
+</div>
+
+<hr />
+
+<p>
+  <strong>Team Lead/Software Developer</strong> at
   <a href="https://www.sabre.com/" target="_blank">Sabre</a>
   <br /> Krakow, Poland
   <br />
@@ -25,10 +56,18 @@ excerpt: Iurii Kucherov Frontend Developer Resume.
 
 <div class="collapsible-section">
   <p>
+    <strong>Responsibilities</strong>
+  </p>
+
+  <ul>
+    <li>todo;</li>
+  </ul>
+
+  <p>
     <strong>Technologies used</strong>
   </p>
 
-  <p>JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Mocha, Chai, Less, Git.</p>
+  <p>JavaScript, HTML/HTML5, CSS/CSS3, Node.js, React, Redux, Webpack, Mocha, Chai, Less, Git.</p>
 </div>
 
 <hr />
