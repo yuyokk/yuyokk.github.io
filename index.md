@@ -13,7 +13,7 @@ Software developer with overall experience more than 7 years. Currently building
 # Technical skills
 
 + **Languages** – JavaScript, HTML/HTML5, CSS/CSS3
-+ **Frameworks/Libraries/Tools** – React, Node.js, Redux, Jest, Bootstrap, Sass, Webpack, Gulp, Lodash, Pug
++ **Frameworks/Libraries/Tools** – React, Node.js, Redux, Jest, Bootstrap, Sass, Webpack, Gulp, Lodash, Moment, Pug
 + **Version Control Systems** – Git
 + **Web Servers** – Apache HTTP Server
 + **AWS Services** – Mobile Hub, AWS Lambda, Api Getaway, Cognito, DynamoDB, AWS Elastic Beanstalk, EC2, S3
