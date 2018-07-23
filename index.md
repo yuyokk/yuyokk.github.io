@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-excerpt: Iurii Kucherov Frontend Developer Resume.
+excerpt: Iurii Kucherov full stack developer resume
 ---
 
 # Overview
@@ -162,9 +162,6 @@ Software developer with overall experience more than 7 years. Currently building
     </li>
     <li>
       <a href="http://gutter-man.com/" target="_blank">The Gutter Man of Tampa Bay</a>
-    </li>
-    <li>
-      <a href="http://rebeccathestylist.com/" target="_blank">Rebecca McCay Salon Stylist</a>
     </li>
     <li>
       <a href="http://pia-ins.com/" target="_blank">Lexington Insurance</a>
