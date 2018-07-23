@@ -47,7 +47,7 @@ Software developer with overall experience more than 7 years. Currently building
 <hr />
 
 <p>
-  <strong>Team Lead/Software Developer</strong> at
+  <strong>Team Lead/Full Stack Developer</strong> at
   <a href="https://www.sabre.com/" target="_blank">Sabre</a>
   <br /> Krakow, Poland
   <br />
@@ -187,7 +187,8 @@ Software developer with overall experience more than 7 years. Currently building
 <hr />
 
 <p>
-  <strong>Full Stack Developer</strong> at AffordableSEOs
+  <strong>Full Stack Developer</strong> at
+  <a href="https://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
   <br /> Miami Beach, US
   <br />
   <em>October 2013 – November 2014</em>
@@ -239,7 +240,7 @@ Software developer with overall experience more than 7 years. Currently building
 <hr />
 
 <p>
-  <strong>Web Developer</strong> at
+  <strong>Full Stack Developer</strong> at
   <a href="https://portaone.com/" target="_blank">PortaOne</a>
   <br /> Chernihiv, Ukraine
   <br />
