@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-excerpt: Iurii Kucherov full stack developer resume
+title: Iurii Kucherov | Full Stack Developer | React, Node.js, AWS
+excerpt: Iurii Kucherov full stack developer
 ---
 
 # Overview
