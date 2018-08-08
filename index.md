@@ -60,7 +60,11 @@ Software developer with overall experience more than 7 years. Currently building
   </p>
 
   <ul>
-    <li>todo;</li>
+    <li>design and develop components for a property management system;</li>
+    <li>planning workload for a team;</li>
+    <li>communicating between teams;</li>
+    <li>mentor junior developers;</li>
+    <li>performing code reviews.</li>
   </ul>
 
   <p>
