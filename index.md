@@ -12,7 +12,7 @@ Software developer with overall experience more than 7 years. Currently building
 
 # Technical skills
 
-+ **Languages** – JavaScript, HTML/HTML5, CSS/CSS3
++ **Languages** – JavaScript, HTML, CSS
 + **Frameworks/Libraries/Tools** – React, Node.js, Redux, Jest, Bootstrap, Sass, Webpack, Gulp, Lodash, Moment, Pug
 + **Version Control Systems** – Git
 + **Web Servers** – Apache HTTP Server
@@ -41,7 +41,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>JavaScript, HTML/HTML5, CSS/CSS3, Node.js, React, Jekyll, Git.</p>
+  <p>JavaScript, HTML, CSS, Node.js, React, Jekyll, Git.</p>
 </div>
 
 <hr />
@@ -71,7 +71,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>JavaScript, HTML/HTML5, CSS/CSS3, Node.js, React, Redux, Webpack, Mocha, Chai, Less, Git.</p>
+  <p>JavaScript, HTML, CSS, Node.js, React, Redux, Webpack, Mocha, Chai, Less, Git.</p>
 </div>
 
 <hr />
@@ -99,7 +99,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>JavaScript, HTML/HTML5, CSS/CSS3, React, Redux, Webpack, Jest, Less, Git, WebSockets.</p>
+  <p>JavaScript, HTML, CSS, React, Redux, Webpack, Jest, Less, Git, WebSockets.</p>
 </div>
 
 <hr />
@@ -128,7 +128,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>JavaScript, HTML/HTML5, CSS/CSS3, Angular, Bootstrap, Sass, Grunt, Perforce, REST API.</p>
+  <p>JavaScript, HTML, CSS, Angular, Bootstrap, Sass, Grunt, Perforce, REST API.</p>
 </div>
 
 <hr />
@@ -145,7 +145,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>Wordpress, Bootstrap, JavaScript, HTML/HTML5, CSS/CSS3.</p>
+  <p>Wordpress, Bootstrap, JavaScript, HTML, CSS.</p>
 
   <p>
     <strong>Some of projects</strong>
@@ -210,7 +210,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>PHP, Wordpress, Magento, Drupal, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Sass, Bootstrap, Git, Photoshop, MySQL.</p>
+  <p>PHP, Wordpress, Magento, Drupal, JavaScript, HTML, CSS, jQuery, Sass, Bootstrap, Git, Photoshop, MySQL.</p>
 
   <p>
     <strong>Some of projects</strong>
@@ -264,7 +264,7 @@ Software developer with overall experience more than 7 years. Currently building
     <strong>Technologies used</strong>
   </p>
 
-  <p>Perl, Mason, JavaScript, HTML/HTML5, CSS/CSS3, jQuery, Git, SVN, REST API, MySQL.</p>
+  <p>Perl, Mason, JavaScript, HTML, CSS, jQuery, Git, SVN, REST API, MySQL.</p>
 </div>
 
 # Education
