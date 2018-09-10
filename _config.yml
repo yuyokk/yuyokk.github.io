@@ -1,15 +1,10 @@
 # Site settings
 title: Iurii Kucherov
-email: yuyokk@gmail.com
-description: >
-  Web Developer with a passion to make the Web a better place.
-  JavaScript, AngularJS and Bootstrap full time engineer and moonlight Wordpress freelancer.
 baseurl: ""
-url: "http://iurii.ninja"
-github_username:
+url: "https://iurii.ninja"
 markdown: kramdown
 exclude: ['.sass-cache', 'node_modules']
 sass:
-    style: compressed
+  style: compressed
 plugins:
   - jekyll-sitemap
