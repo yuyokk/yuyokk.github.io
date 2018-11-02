@@ -12,20 +12,20 @@ Software developer with overall experience more than 7 years. Currently building
 
 # Technical skills
 
-+ **Languages** – JavaScript, HTML, CSS
-+ **Frameworks/Libraries/Tools** – React, Node.js, Redux, Jest, Bootstrap, Sass, Webpack, Gulp, Lodash, Moment, Pug
-+ **Version Control Systems** – Git
-+ **Web Servers** – Apache HTTP Server
-+ **AWS Services** – Mobile Hub, AWS Lambda, Api Getaway, Cognito, DynamoDB, AWS Elastic Beanstalk, EC2, S3
+- **Languages** - JavaScript, HTML, CSS
+- **Frameworks/Libraries/Tools** - React, Node.js, Redux, Jest, Bootstrap, Sass, Webpack, Gulp, Lodash, Moment, Pug
+- **Version Control Systems** - Git
+- **Web Servers** - Apache HTTP Server
+- **AWS Services** - Mobile Hub, AWS Lambda, Api Getaway, Cognito, DynamoDB, AWS Elastic Beanstalk, EC2, S3
 
 # Professional experience
 
 <p>
   <strong>Full Stack Developer</strong> at
-  <a href="https://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
+  <a href="https://www.knightcapitalfunding.com/" target="_blank" rel="noreferrer">Knight Capital Funding</a>
   <br /> Remote
   <br />
-  <em>January 2018 – Present</em>
+  <em>January 2018 - Present</em>
 </p>
 
 <div class="collapsible-section">
@@ -48,10 +48,10 @@ Software developer with overall experience more than 7 years. Currently building
 
 <p>
   <strong>Team Lead/Full Stack Developer</strong> at
-  <a href="https://www.sabre.com/" target="_blank">Sabre</a>
+  <a href="https://www.sabre.com/" target="_blank" rel="noreferrer">Sabre</a>
   <br /> Krakow, Poland
   <br />
-  <em>April 2017 – December 2017</em>
+  <em>April 2017 - December 2017</em>
 </p>
 
 <div class="collapsible-section">
@@ -78,10 +78,10 @@ Software developer with overall experience more than 7 years. Currently building
 
 <p>
   <strong>Frontend Developer</strong> at
-  <a href="http://www.luxoft.com/" target="_blank">Luxoft</a>
+  <a href="http://www.luxoft.com/" target="_blank" rel="noreferrer">Luxoft</a>
   <br /> Krakow, Poland
   <br />
-  <em>October 2015 – March 2017</em>
+  <em>October 2015 - March 2017</em>
 </p>
 
 <div class="collapsible-section">
@@ -106,10 +106,10 @@ Software developer with overall experience more than 7 years. Currently building
 
 <p>
   <strong>Frontend Developer</strong> at
-  <a href="http://www.globallogic.com/" target="_blank">GlobalLogic</a>
+  <a href="http://www.globallogic.com/" target="_blank" rel="noreferrer">GlobalLogic</a>
   <br /> Kyiv, Ukraine
   <br />
-  <em>January 2015 – September 2015</em>
+  <em>January 2015 - September 2015</em>
 </p>
 
 <div class="collapsible-section">
@@ -135,9 +135,9 @@ Software developer with overall experience more than 7 years. Currently building
 
 <p>
   <strong>Full Stack Freelancer</strong> on
-  <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank">Upwork</a>
+  <a href="https://www.upwork.com/users/~01c8013e8487023dcf" target="_blank" rel="noreferrer">Upwork</a>
   <br />
-  <em>July 2014 – July 2015</em>
+  <em>July 2014 - July 2015</em>
 </p>
 
 <div class="collapsible-section">
@@ -153,34 +153,34 @@ Software developer with overall experience more than 7 years. Currently building
 
   <ul>
     <li>
-      <a href="http://acutediagnostics.com/" target="_blank">Acute Diagnostics</a>
+      <a href="http://acutediagnostics.com/" target="_blank" rel="noreferrer">Acute Diagnostics</a>
     </li>
     <li>
-      <a href="http://allen-allen.com" target="_blank">Allen &amp; Allen Insurance</a>
+      <a href="http://allen-allen.com" target="_blank" rel="noreferrer">Allen &amp; Allen Insurance</a>
     </li>
     <li>
-      <a href="http://brooksidechristian.com/" target="_blank">Brookside Christian School</a>
+      <a href="http://brooksidechristian.com/" target="_blank" rel="noreferrer">Brookside Christian School</a>
     </li>
     <li>
-      <a href="http://domesticaide.com/" target="_blank">Domesticaide</a>
+      <a href="http://domesticaide.com/" target="_blank" rel="noreferrer">Domesticaide</a>
     </li>
     <li>
-      <a href="http://gutter-man.com/" target="_blank">The Gutter Man of Tampa Bay</a>
+      <a href="http://gutter-man.com/" target="_blank" rel="noreferrer">The Gutter Man of Tampa Bay</a>
     </li>
     <li>
-      <a href="http://pia-ins.com/" target="_blank">Lexington Insurance</a>
+      <a href="http://pia-ins.com/" target="_blank" rel="noreferrer">Lexington Insurance</a>
     </li>
     <li>
-      <a href="http://95southinc.com/" target="_blank">95 South Facility Management</a>
+      <a href="http://95southinc.com/" target="_blank" rel="noreferrer">95 South Facility Management</a>
     </li>
     <li>
-      <a href="http://gomarathon.net/" target="_blank">Marathon Home Services, Sacramento</a>
+      <a href="http://gomarathon.net/" target="_blank" rel="noreferrer">Marathon Home Services, Sacramento</a>
     </li>
     <li>
-      <a href="http://beatonaccounting.com/" target="_blank">Beaton Accounting</a>
+      <a href="http://beatonaccounting.com/" target="_blank" rel="noreferrer">Beaton Accounting</a>
     </li>
     <li>
-      <a href="http://ballagafreedman.com/" target="_blank">Ballaga &amp; Freedman, LLP</a>
+      <a href="http://ballagafreedman.com/" target="_blank" rel="noreferrer">Ballaga &amp; Freedman, LLP</a>
     </li>
   </ul>
 </div>
@@ -189,10 +189,10 @@ Software developer with overall experience more than 7 years. Currently building
 
 <p>
   <strong>Full Stack Developer</strong> at
-  <a href="https://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
+  <a href="https://www.knightcapitalfunding.com/" target="_blank" rel="noreferrer">Knight Capital Funding</a>
   <br /> Miami Beach, US
   <br />
-  <em>October 2013 – November 2014</em>
+  <em>October 2013 - November 2014</em>
 </p>
 
 <div class="collapsible-section">
@@ -218,22 +218,22 @@ Software developer with overall experience more than 7 years. Currently building
 
   <ul>
     <li>
-      <a href="http://www.ebusinessfunding.net/" target="_blank">Small Business Loans for Working Capital</a>
+      <a href="http://www.ebusinessfunding.net/" target="_blank" rel="noreferrer">Small Business Loans for Working Capital</a>
     </li>
     <li>
-      <a href="http://www.knightcapitalfunding.com/" target="_blank">Knight Capital Funding</a>
+      <a href="http://www.knightcapitalfunding.com/" target="_blank" rel="noreferrer">Knight Capital Funding</a>
     </li>
     <li>
-      <a href="http://workingcapital.nyc/" target="_blank">Working Capital NYC</a>
+      <a href="http://workingcapital.nyc/" target="_blank" rel="noreferrer">Working Capital NYC</a>
     </li>
     <li>
-      <a href="http://tigerfundingllc.com/" target="_blank">Tiger Funding LLC</a>
+      <a href="http://tigerfundingllc.com/" target="_blank" rel="noreferrer">Tiger Funding LLC</a>
     </li>
     <li>
-      <a href="http://leadgencollc.com/" target="_blank">Leadgenco LLC</a>
+      <a href="http://leadgencollc.com/" target="_blank" rel="noreferrer">Leadgenco LLC</a>
     </li>
     <li>
-      <a href="http://keillaw.com/" target="_blank">Denial M. Keil, P.A.</a>
+      <a href="http://keillaw.com/" target="_blank" rel="noreferrer">Denial M. Keil, P.A.</a>
     </li>
   </ul>
 </div>
@@ -242,10 +242,10 @@ Software developer with overall experience more than 7 years. Currently building
 
 <p>
   <strong>Full Stack Developer</strong> at
-  <a href="https://portaone.com/" target="_blank">PortaOne</a>
+  <a href="https://portaone.com/" target="_blank" rel="noreferrer">PortaOne</a>
   <br /> Chernihiv, Ukraine
   <br />
-  <em>July 2011 – October 2013</em>
+  <em>July 2011 - October 2013</em>
 </p>
 
 <div class="collapsible-section">
@@ -267,25 +267,30 @@ Software developer with overall experience more than 7 years. Currently building
   <p>Perl, Mason, JavaScript, HTML, CSS, jQuery, Git, SVN, REST API, MySQL.</p>
 </div>
 
+# Certifications
+
+**<a href="https://www.credential.net/x3w2r6af" target="_blank" rel="noreferrer">Google Ceritified Mobile Web Specialist</a>** _November 2018_
+
 # Education
 
-**<a href="http://en.stu.cn.ua/" target="_blank">Chernihiv National University of Technology</a>**<br/>
+**<a href="http://en.stu.cn.ua/" target="_blank" rel="noreferrer">Chernihiv National University of Technology</a>**<br/>
 Chernihiv, Ukraine
 
-+ **Masters in Computer Science** _September 2011 – February 2013_
-+ **Bachelor of Computer Science** _September 2007 – June 2011_
+- **Masters in Computer Science** _September 2011 - February 2013_
+- **Bachelor of Computer Science** _September 2007 - June 2011_
 
 # Languages
 
-+ English – advanced;
-+ Ukrainian, Russian – native;
-+ Polish - intermediate.
+- English - advanced;
+- Ukrainian, Russian - native;
+- Polish - intermediate.
 
 # Social profiles
-+ <a href="https://github.com/yuyokk" target="_blank">GitHub</a>
-+ <a href="http://stackoverflow.com/users/1022726/yuyokk" target="_blank">Stack Overflow</a>
-+ <a href="https://twitter.com/yuyokk" target="_blank">Twitter</a>
-+ <a href="https://www.facebook.com/ikucherov" target="_blank">Facebook</a>
+
+- <a href="https://github.com/yuyokk" target="_blank" rel="noreferrer">GitHub</a>
+- <a href="http://stackoverflow.com/users/1022726/" target="_blank" rel="noreferrer">Stack Overflow</a>
+- <a href="https://twitter.com/yuyokk" target="_blank" rel="noreferrer">Twitter</a>
+- <a href="https://www.facebook.com/ikucherov" target="_blank" rel="noreferrer">Facebook</a>
 
 <script>
   var Expander = (function () {
