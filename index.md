@@ -269,7 +269,7 @@ Software developer with overall experience more than 7 years. Currently building
 
 # Certifications
 
-**<a href="https://www.credential.net/x3w2r6af" target="_blank" rel="noreferrer">Google Ceritified Mobile Web Specialist</a>** _November 2018_
+**<a href="https://www.credential.net/x3w2r6af" target="_blank" rel="noreferrer">Google Certified Mobile Web Specialist</a>** _November 2018_
 
 # Education
 
